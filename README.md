@@ -14,7 +14,7 @@ This model allows you to find three ideal Singaporean locations given your resta
 ## How to use in text if you don't want to watch the video:
 
 1. Clone this project 
-2. Set up your OpenAI API key and replace it for "your API key" in .env
+2. Set up your OpenAI API key in a new .env file and set OPENAI_API_KEY = "your api key"
 3. Depending on whether you want to run a SWOT analysis on  your proposed location, you should uncomment and comment out lines that say to be uncommented and comment out
 4. Run main file
 
